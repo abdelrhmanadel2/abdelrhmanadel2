@@ -26,7 +26,7 @@ I live in Egypt and studied computer science at Benha University🏫.I'm a passi
 - Making  **Relational Database Management Systems**
 
 ## 🛠 &nbsp;Explore projects
-> ***Explore all of my projects from [Here](https://github.com/Eng-Mohamed-Osama?tab=repositories)***
+> ***Explore all of my projects from [Here](https://github.com/abdelrhmanadel2?tab=repositories)***
 <div align="center">
 
 ### If you find my work good, consider giving it a ⭐ or fork-ing to show some ❤️. It helps me stay on track and be motivated.
